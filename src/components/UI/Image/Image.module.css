@@ -1,0 +1,10 @@
+.image_container {
+    width: 100%;
+    position: relative;
+}
+
+.image_container img {
+    width: 100%;
+    object-position: center center;
+    object-fit: cover;
+}

@@ -1,0 +1,18 @@
+.indicator {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    border-radius: 100%;
+}
+
+.dead {
+    background: rgb(214, 61, 46);
+}
+
+.unknown {
+    background: rgb(158, 158, 158);
+}
+
+.alive {
+    background: rgb(85, 204, 68);
+}
